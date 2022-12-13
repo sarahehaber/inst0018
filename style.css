@@ -1,0 +1,23 @@
+body{
+	background-image: url("flowers.jpg");
+	
+}
+
+h1{
+	color: teal;
+	text-align: center;
+	font-family: Brush Script MT, cursive;
+	font-size: 70px;
+}
+
+p{
+	color: magenta;
+	background-color: white;
+	text-align: center;
+	font-size: 25px;
+}
+
+img{
+	border-radius: 30%;
+	width: 30%;
+}
